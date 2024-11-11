@@ -12,5 +12,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         echo "Nessun array è stato inviato.";
     }
+    //commento
 }
 ?>
